@@ -1,0 +1,6 @@
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaConexion\bin\Debug\CapaConexion.dll
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaConexion\bin\Debug\CapaConexion.pdb
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaConexion\obj\Debug\CapaConexion.csprojResolveAssemblyReference.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaConexion\obj\Debug\CapaConexion.pdb

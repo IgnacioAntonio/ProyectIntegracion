@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="agregarParticipanteTorneoService">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="participante" type="tns:Participante" />
+            <s:element minOccurs="0" maxOccurs="1" name="torneo" type="tns:Torneo" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="Participante">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id_Participante1" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" name="Rut_Participante1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre_Participante1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Apellido_Patreno_Participante1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Apellido_Materno_Participante1" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha_Nacimiento_Participante1" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="Torneo">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="Id_Torneo1" type="s:long" />
+          <s:element minOccurs="0" maxOccurs="1" name="Nombre_Torneo1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Descripcion_Torneo1" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Fecha_Torneo1" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="Cantidad_Participante1" type="s:long" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="agregarParticipanteTorneoServiceResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="agregarParticipanteTorneoServiceSoapIn">
+    <wsdl:part name="parameters" element="tns:agregarParticipanteTorneoService" />
+  </wsdl:message>
+  <wsdl:message name="agregarParticipanteTorneoServiceSoapOut">
+    <wsdl:part name="parameters" element="tns:agregarParticipanteTorneoServiceResponse" />
+  </wsdl:message>
+  <wsdl:portType name="WebServiceLOCTPSoap">
+    <wsdl:operation name="agregarParticipanteTorneoService">
+      <wsdl:input message="tns:agregarParticipanteTorneoServiceSoapIn" />
+      <wsdl:output message="tns:agregarParticipanteTorneoServiceSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WebServiceLOCTPSoap" type="tns:WebServiceLOCTPSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="agregarParticipanteTorneoService">
+      <soap:operation soapAction="http://tempuri.org/agregarParticipanteTorneoService" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WebServiceLOCTPSoap12" type="tns:WebServiceLOCTPSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="agregarParticipanteTorneoService">
+      <soap12:operation soapAction="http://tempuri.org/agregarParticipanteTorneoService" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebServiceLOCTP">
+    <wsdl:port name="WebServiceLOCTPSoap" binding="tns:WebServiceLOCTPSoap">
+      <soap:address location="http://localhost:54113/WebServiceLOCTP.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WebServiceLOCTPSoap12" binding="tns:WebServiceLOCTPSoap12">
+      <soap12:address location="http://localhost:54113/WebServiceLOCTP.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,99 @@
+D:\Proyecto\ProyectoLoC\CapaGUI\bin\Debug\CapaGUI.exe.config
+D:\Proyecto\ProyectoLoC\CapaGUI\bin\Debug\CapaGUI.exe
+D:\Proyecto\ProyectoLoC\CapaGUI\bin\Debug\CapaGUI.pdb
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csprojAssemblyReference.cache
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.exe
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.pdb
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave8.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaMenu.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneo4.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneoLlave.resources
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\bin\Debug\CapaGUI.exe.config
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\bin\Debug\CapaGUI.exe
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\bin\Debug\CapaGUI.pdb
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csprojAssemblyReference.cache
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave8.resources
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaMenu.resources
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneo4.resources
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneoLlave.resources
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.exe
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.pdb
+C:\Users\Cetecom\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave16.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\bin\Debug\CapaGUI.exe.config
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\bin\Debug\CapaGUI.exe
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\bin\Debug\CapaGUI.pdb
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave16.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave8.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaMenu.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneo4.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneoLlave.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.exe
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.pdb
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaAgregarParticipante.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaAgregarParticipante.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaBusquedaAdministrar.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave16.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaModificarTorneo.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaAdministrarParticipante.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaModificarParticipante.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaAgregarParticipanteTorneo.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaRegistrarTorneo.resources
+D:\Proyecto\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaListarParticipantes.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaAdministrarParticipante.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaAgregarParticipanteTorneo.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaBusquedaAdministrar.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaListarParticipantes.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaModificarParticipante.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaModificarTorneo.resources
+C:\Users\pc\Downloads\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaRegistrarTorneo.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaAdministrarParticipante.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaAgregarParticipante.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaAgregarParticipanteTorneo.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaBusquedaAdministrar.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaListarParticipantes.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave16.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave8.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaMenu.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaModificarParticipante.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaModificarTorneo.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaRegistrarTorneo.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneo4.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneoLlave.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.exe
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\Tampo\ProyectoLoC\CapaGUI\obj\Debug\CapaGUI.pdb
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\bin\Debug\CapaGUI.exe.config
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\bin\Debug\CapaGUI.exe
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\bin\Debug\CapaGUI.pdb
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.csprojResolveAssemblyReference.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaAdministrarParticipante.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaAgregarParticipante.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaAgregarParticipanteTorneo.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaBusquedaAdministrar.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaListarParticipantes.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave16.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaLlave8.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaMenu.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaModificarParticipante.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaModificarTorneo.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaRegistrarTorneo.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneo4.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.PantallaTorneoLlave.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.Properties.Resources.resources
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.csproj.GenerateResource.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.csproj.CoreCompileInputs.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.exe
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaGUI\obj\Debug\CapaGUI.pdb

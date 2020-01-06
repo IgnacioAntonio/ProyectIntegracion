@@ -1,0 +1,11 @@
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\bin\Debug\CapaConexion.dll
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\bin\Debug\CapaDTO.dll
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\bin\Debug\CapaConexion.pdb
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\bin\Debug\CapaDTO.pdb
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Juano\Desktop\Programas de trabajo\tampo\ProyectoLOC\CapaNegocio\obj\Debug\CapaNegocio.pdb

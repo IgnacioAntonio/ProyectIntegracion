@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4280049B-A446-4944-886E-D1753BEAF6E1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CapaGUI</RootNamespace>
+    <AssemblyName>CapaGUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connected Services\ServiceLOCParticipante\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceLOCTP\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ServiceLOC\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaAdministrarParticipante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaAdministrarParticipante.Designer.cs">
+      <DependentUpon>PantallaAdministrarParticipante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaAgregarParticipante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaAgregarParticipante.Designer.cs">
+      <DependentUpon>PantallaAgregarParticipante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaAgregarParticipanteTorneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaAgregarParticipanteTorneo.Designer.cs">
+      <DependentUpon>PantallaAgregarParticipanteTorneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaBusquedaAdministrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaBusquedaAdministrar.Designer.cs">
+      <DependentUpon>PantallaBusquedaAdministrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaListarParticipantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaListarParticipantes.Designer.cs">
+      <DependentUpon>PantallaListarParticipantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaLlave16.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaLlave16.Designer.cs">
+      <DependentUpon>PantallaLlave16.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaLlave8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaLlave8.Designer.cs">
+      <DependentUpon>PantallaLlave8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaMenu.Designer.cs">
+      <DependentUpon>PantallaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaModificarParticipante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaModificarParticipante.Designer.cs">
+      <DependentUpon>PantallaModificarParticipante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaModificarTorneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaModificarTorneo.Designer.cs">
+      <DependentUpon>PantallaModificarTorneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaRegistrarTorneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaRegistrarTorneo.Designer.cs">
+      <DependentUpon>PantallaRegistrarTorneo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaTorneo4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaTorneo4.Designer.cs">
+      <DependentUpon>PantallaTorneo4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PantallaTorneoLlave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PantallaTorneoLlave.Designer.cs">
+      <DependentUpon>PantallaTorneoLlave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PantallaAdministrarParticipante.resx">
+      <DependentUpon>PantallaAdministrarParticipante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaAgregarParticipante.resx">
+      <DependentUpon>PantallaAgregarParticipante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaAgregarParticipanteTorneo.resx">
+      <DependentUpon>PantallaAgregarParticipanteTorneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaBusquedaAdministrar.resx">
+      <DependentUpon>PantallaBusquedaAdministrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaListarParticipantes.resx">
+      <DependentUpon>PantallaListarParticipantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaLlave16.resx">
+      <DependentUpon>PantallaLlave16.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaLlave8.resx">
+      <DependentUpon>PantallaLlave8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaMenu.resx">
+      <DependentUpon>PantallaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaModificarParticipante.resx">
+      <DependentUpon>PantallaModificarParticipante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaModificarTorneo.resx">
+      <DependentUpon>PantallaModificarTorneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaRegistrarTorneo.resx">
+      <DependentUpon>PantallaRegistrarTorneo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaTorneo4.resx">
+      <DependentUpon>PantallaTorneo4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PantallaTorneoLlave.resx">
+      <DependentUpon>PantallaTorneoLlave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Connected Services\ServiceLOCParticipante\CapaGUI.ServiceLOCParticipante.Participante.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceLOCParticipante\WebServiceLOCParticipante.wsdl" />
+    <None Include="Connected Services\ServiceLOCTP\CapaGUI.ServiceLOCTP.agregarParticipanteTorneoServiceResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceLOCTP\WebServiceLOCTP.wsdl" />
+    <None Include="Connected Services\ServiceLOC\CapaGUI.ServiceLOC.Torneo.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\ServiceLOC\WebServiceLOC.wsdl" />
+    <None Include="Properties\DataSources\System.Data.DataSet.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\ServiceLOC\WebServiceLOC.disco" />
+    <None Include="Connected Services\ServiceLOC\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceLOC\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceLOC\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\ServiceLOCParticipante\WebServiceLOCParticipante.disco" />
+    <None Include="Connected Services\ServiceLOCParticipante\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceLOCParticipante\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceLOCParticipante\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\ServiceLOCTP\WebServiceLOCTP.disco" />
+    <None Include="Connected Services\ServiceLOCTP\configuration91.svcinfo" />
+    <None Include="Connected Services\ServiceLOCTP\configuration.svcinfo" />
+    <None Include="Connected Services\ServiceLOCTP\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Imagen\LLAVE torneo 16.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\ServiceLOCParticipante\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceLOCTP\" />
+    <WCFMetadataStorage Include="Connected Services\ServiceLOC\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
